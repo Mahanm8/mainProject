@@ -1,0 +1,29 @@
+﻿.navbar.bg-light {
+    background-color: #1dd1a1 !important;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    color: black;
+    height: 100vh;
+}
+
+#login .container #login-row #login-column #login-box {
+    margin-top: 120px;
+    max-width: 600px;
+    height: 320px;
+    border: 1px solid #9C9C9C;
+    background-color: #16a085;
+    color: black;
+}
+
+    #login .container #login-row #login-column #login-box #login-form {
+        padding: 20px;
+        color: black;
+    }
+
+        #login .container #login-row #login-column #login-box #login-form #register-link {
+            margin-top: -85px;
+            color: black;
+        }
